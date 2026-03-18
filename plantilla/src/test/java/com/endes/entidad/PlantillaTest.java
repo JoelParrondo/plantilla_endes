@@ -36,4 +36,14 @@ class PlantillaTest {
         // Verificar el mensaje de la excepción
         assertEquals("El empleado con DNI 11111111H ya está contratado", ex.getMessage());
     }
+    
+    @Test
+    void testContratarEmpleado(){
+    	
+    }
+    
+    @Test
+    void testGetEmpleadosPorNombre() {
+    	
+    }
 }
